@@ -1,6 +1,14 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School is so cool!"
 =======
 echo "ALX School"
+=======
+echo "ALX"
+<<<<<<< HEAD
+[Content of the current branch - main]
+=======
+[Content of the branch being merged - update_script]
+>>>>>>> origin/main
 >>>>>>> update_script
